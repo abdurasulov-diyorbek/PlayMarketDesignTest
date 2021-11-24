@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="discover_recommended_games">Discover recommended games</string>
+    <string name="search_for_apps_amp_games"><![CDATA[Search for apps & games]]></string>
+    <string name="todo">TODO</string>
+    <string name="clash_of_clans">Clash of Clans</string>
+    <string name="strategy">Strategy</string>
+    <string name="earn_to_die_2">Earn to Die 2</string>
+    <string name="racing_stunt_driving">Racing Stunt driving</string>
+    <string name="lords_mobile">Lords Mobile</string>
+    <string name="strategy_4x">Strategy 4X</string>
+    <string name="ads_suggested_for_you">Ads * Suggested for you</string>
+    <string name="tiktok">TikTok</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="instagram">Instagram</string>
+    <string name="social">Social</string>
+    <string name="facebook">Facebook</string>
+    <string name="top_rated_games">Top rated games</string>
+    <string name="pubg_mobile_arcane">Pubg Mobile: Arcane</string>
+    <string name="action_shooter">Action Shooter</string>
+    <string name="the_archers_2">The Archers 2</string>
+    <string name="arcade_action">Arcade Action</string>
+    <string name="score_hero_2022">Score! Hero 2022</string>
+    <string name="sport">Sport</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
